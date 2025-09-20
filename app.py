@@ -94,8 +94,7 @@ with left_col:
         # ></iframe>
         # """
         st.markdown("### 📄 Complete Explanation of Pipeline")
-        st.markdown("[🔗 View on GitHub](https://github.com/mansiq/Datapipeline-processing-dashboard?tab=readme-ov-file#)")
-
+        st.markdown("[🔗 View on GitHub](https://github.com/Mansiq/Agricultural-Sensor-Data-Pipeline-Mansi-Shah/blob/main/README.md)")
         # st.markdown(pdf_display, unsafe_allow_html=True)
 
 
@@ -166,4 +165,5 @@ st.markdown("""
     💼 <a href="https://www.linkedin.com/in/mansi-shah-b27316250/" target="_blank">LinkedIn</a> &nbsp; | &nbsp;
     🐙 <a href="https://github.com/Mansiq" target="_blank">GitHub</a> &nbsp; | &nbsp;
 </div>
+
 """, unsafe_allow_html=True)
