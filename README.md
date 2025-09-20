@@ -15,7 +15,7 @@ Experience the pipeline in action with our **live Streamlit dashboard**:
 
 🔗 **[View Live Dashboard - https://satsure-datapipeline-processing-dashboard-mansi-shah.streamlit.app/](https://satsure-datapipeline-processing-dashboard-mansi-shah.streamlit.app/)**
 
-![Dashboard Preview](https://drive.google.com/uc?export=view&id=16KQYwiTn8qwS1-JvFTxC_3gvOq6eeyRf)
+![Dashboard Preview](https://drive.google.com/uc?export=view&id=12Or-0WZ_G4V1sg6zebMyE811AefAR7oO)
 
 ### 🎯 Dashboard Features
 
@@ -353,3 +353,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 **Email:** [mansishah9865@gmail.com](mailto:mansishah9865@gmail.com)
+
